@@ -3,7 +3,7 @@
     "description": "Upload and manage Cloudflare Stream easily",
     "require": {
         "php": ">=7.5",
-        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/guzzle": "^7.0",
         "illuminate/support": "^7.0"
     },
     "authors": [
